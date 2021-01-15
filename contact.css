@@ -1,0 +1,149 @@
+
+body{
+    background-color: #26426b;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+.navbar{
+    background-color: #0E3152;
+    border-radius: 30px;
+    position: sticky;
+    margin-left: 90px;
+    margin-top: 20px;
+}    
+
+.image{
+    height: 80px;
+    position: absolute;
+    margin-top: 0px;
+}
+
+
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    float: left;
+    list-style: none; 
+    margin: 13px 20px;
+    
+}
+.navbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+}
+.navbar li a:hover{
+    color: orange;
+}    
+   
+.image_file{
+    size: 40px;
+    margin-left:40px;
+    margin-top: 150px;
+    position: absolute;
+}
+
+
+.form{
+    width: 650px;
+    background-color: #0E3152;
+    margin:auto;
+    border-radius: 30px;
+    height: 500px;
+    overflow: hidden;
+}
+
+.form h2{
+    padding-left: 70px;
+}
+
+.label{
+    color:white;
+    margin:auto;
+    padding-left: 270px;
+   
+}
+
+.box{
+    padding-left: 220px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.submit{
+    padding-left:270px;
+}
+
+
+.box1{
+    padding-left: 250px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.header{
+    padding-left:180;
+    padding-bottom:5px;
+    color:white;
+}
+
+.footer{
+    background-color: #0E3152;
+    border-radius: 30px;
+    height: 50px;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 10px;
+    
+}    
+
+.footer p{
+    padding-left: 40px;
+    padding-bottom: 10px;
+    position: absolute;
+    color:aliceblue;
+}
+
+.insta{
+    height: 30px;
+    float: right;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-right: 40px;
+}
+
+.twitter{
+    float: right;
+    padding-left: 20px;
+    padding-bottom: 5px;;
+    padding-top: 10px;
+    padding-right: 40px;
+    height: 30px;
+}
+
+.facebook{
+    height: 30px;
+    float: right;
+    padding-left: 20px;
+    padding-top: 10px;;
+    padding-bottom: 5px;
+    padding-right: 40px;
+    height: 30px;
+}
+
+.linkediln{
+    height: 20px;
+    float: right;
+    padding-left: 20px;
+    padding-top: 10px;;
+    padding-bottom: 5px;
+    padding-right: 40px;
+    height: 30px;
+}

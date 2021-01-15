@@ -1,0 +1,209 @@
+body{
+    background-color: #26426b;
+    background-position: center;
+    background-size: cover;
+    overflow: auto;
+}
+
+.navbar{
+    background-color: #0E3152;
+    border-radius: 30px;
+    position: sticky;
+    margin-left: 90px;
+    margin-top: 20px;
+}    
+
+.image{
+    height: 80px;
+    position: absolute;
+    margin-top: 0px;
+}
+
+
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    float: left;
+    list-style: none; 
+    margin: 13px 20px;
+    
+}
+.navbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+}
+.navbar li a:hover{
+    color: orange;
+}    
+   
+.image_file{
+    size: 40px;
+    margin-left:40px;
+    margin-top: 150px;
+    position: absolute;
+}
+
+.container{
+    width: 70%;
+    background-color: #0E3152;
+    margin: auto;
+    color:aliceblue;
+    height: 80%;
+    border-radius: 20px;
+    position: relative;
+
+}
+
+.images{
+    float: right;
+    position: relative;
+    padding-right: 40px;
+}
+
+
+.arun img{
+    width: 140px;
+    height: 140px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 70%;
+    position: absolute;
+   
+    
+}
+
+.arun p{
+    float: left;
+    padding-top: 150px;
+    padding-left: 40px;
+}
+
+.aman img{
+    width: 140px;
+    height: 140px;
+    padding-left: 5px;
+    position: relative;
+    border-radius: 50%;
+    
+}
+
+.aman p{
+    padding-left: 40px;
+}
+
+
+.aayush img{
+    width: 140px;
+    height: 140px;
+    padding-left: 5px;
+    position: relative;
+    border-radius: 70%;
+
+
+}
+
+.aayush p{
+    padding-left: 35px;
+}
+
+.container h2{
+    position: absolute;
+    padding-left: 40%;
+
+}
+
+.content{
+    width: 80%;
+    position: absolute;
+}
+
+.content ul{
+    font-size: larger;
+    padding-top: 40px;
+}
+
+.content ul li{
+    padding-bottom: 10px;
+}
+
+.content h1{
+    padding-left: 20px;
+}
+
+.we p{
+    padding-left: 20px;
+    font-size:larger ;
+}
+
+.we a{
+    color: aliceblue;
+}
+
+.we li{
+    font-size: larger;
+}
+
+.we a:hover{
+    color: orange;
+}
+
+
+
+
+footer{
+    background-color: #0E3152;
+    border-radius: 30px;
+    height: 50px;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;   
+}    
+
+.footer p{
+    padding-left: 40px;
+    padding-bottom: 10px;
+    position: absolute;
+    color:aliceblue;
+}
+
+.insta{
+    height: 30px;
+    float: right;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-right: 40px;
+}
+
+.twitter{
+    float: right;
+    padding-left: 20px;
+    padding-bottom: 5px;;
+    padding-top: 10px;
+    padding-right: 40px;
+    height: 30px;
+}
+
+.facebook{
+    height: 30px;
+    float: right;
+    padding-left: 20px;
+    padding-top: 10px;;
+    padding-bottom: 5px;
+    padding-right: 40px;
+    height: 30px;
+}
+
+.linkediln{
+    height: 20px;
+    float: right;
+    padding-left: 20px;
+    padding-top: 10px;;
+    padding-bottom: 5px;
+    padding-right: 40px;
+    height: 30px;
+}

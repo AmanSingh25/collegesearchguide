@@ -1,0 +1,343 @@
+body{
+    background-color: #26426b;
+    background-position: center;
+    background-size: cover;
+    overflow: auto;
+}
+
+.navbar{
+    background-color: #0E3152;
+    border-radius: 30px;
+    position: sticky;
+    margin-left: 90px;
+    margin-top: 20px;
+}    
+
+.image{
+    height: 80px;
+    position: absolute;
+    margin-top: 0px;
+}
+
+
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    float: left;
+    list-style: none; 
+    margin: 13px 20px;
+    
+}
+.navbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+}
+.navbar li a:hover{
+    color: orange;
+}
+
+
+.utt{
+    color: aliceblue;
+    padding-top: 50px;
+    padding-left: 20px;
+
+}
+
+.utt p{
+    font-size: larger;
+}
+
+.utt h1{
+    font-size: xx-large;
+}
+
+.uta{
+    color: aliceblue;
+    padding-left: 20px;
+
+}
+
+.uta p{
+    font-size: larger;
+}
+
+.uta h1{
+    font-size: xx-large;
+}
+
+.bcu{
+    color: aliceblue;
+    padding-left: 20px;
+
+}
+
+.bcu p{
+    font-size: larger;
+}
+
+.bcu h1{
+    font-size: xx-large;
+}
+
+.uno{
+    color: aliceblue;
+    padding-left: 20px;
+
+}
+
+.uno p{
+    font-size: larger;
+}
+
+.uno h1{
+    font-size: xx-large;
+}
+
+.cu{
+    color: aliceblue;
+    padding-left: 20px;
+
+}
+
+.cu p{
+    font-size: larger;
+}
+
+.cu h1{
+    font-size: xx-large;
+}
+.hu{
+    color: aliceblue;
+    padding-left: 20px;
+
+}
+
+.hu p{
+    font-size: larger;
+}
+
+.hu h1{
+    font-size: xx-large;
+}
+
+.psu{
+    color: aliceblue;
+    padding-left: 20px;
+
+}
+
+.psu p{
+    font-size: larger;
+}
+
+.psu h1{
+    font-size: xx-large;
+}
+.troy{
+    color: aliceblue;
+    padding-left: 20px;
+
+}
+
+.troy p{
+    font-size: larger;
+}
+
+.troy h1{
+    font-size: xx-large;
+}
+.uoak{
+    color: aliceblue;
+    padding-left: 20px;
+}
+
+.uoak p{
+    font-size: larger;
+}
+
+.uoak h1{
+    font-size: xx-large;
+}
+.asu{
+    color: aliceblue;
+    padding-left: 20px;
+}
+
+.asu p{
+    font-size: larger;
+}
+
+.asu h1{
+    font-size: xx-large;
+}
+.ulm{
+    color: aliceblue;
+    padding-left: 20px;
+}
+
+.ulm p{
+    font-size: larger;
+}
+
+.ulm h1{
+    font-size: xx-large;
+}
+.scsu{
+    color: aliceblue;
+    padding-left: 20px;
+}
+
+.scsu p{
+    font-size: larger;
+}
+
+.scsu h1{
+    font-size: xx-large;
+}
+
+.wu{
+    color: aliceblue;
+    padding-left: 20px;
+}
+
+.wu p{
+    font-size: larger;
+}
+
+.wu h1{
+    font-size: xx-large;
+}
+.msu{
+    color: aliceblue;
+    padding-left: 20px;
+}
+
+.msu p{
+    font-size: larger;
+}
+
+.msu h1{
+    font-size: xx-large;
+}
+.nku{
+    color: aliceblue;
+    padding-left: 20px;
+}
+
+.nku p{
+    font-size: larger;
+}
+
+.nku h1{
+    font-size: xx-large;
+}
+.lsu{
+    color: aliceblue;
+    padding-left: 20px;
+}
+
+.lsu p{
+    font-size: larger;
+}
+
+.lsu h1{
+    font-size: xx-large;
+}
+.uok{
+    color: aliceblue;
+    padding-left: 20px;
+}
+
+.uok p{
+    font-size: larger;
+}
+
+.uok h1{
+    font-size: xx-large;
+}
+.uon{
+    color: aliceblue;
+    padding-left: 20px;
+}
+
+.uon p{
+    font-size: larger;
+}
+
+.uon h1{
+    font-size: xx-large;
+}
+.rc{
+    color: aliceblue;
+    padding-left: 20px;
+    padding-bottom: 40px;
+}
+
+.rc p{
+    font-size: larger;
+}
+
+.rc h1{
+    font-size: xx-large;
+}
+
+
+
+footer{
+    background-color: #0E3152;
+    border-radius: 30px;
+    height: 50px;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;   
+}    
+
+.footer p{
+    padding-left: 40px;
+    padding-bottom: 10px;
+    position: absolute;
+    color:aliceblue;
+}
+
+.insta{
+    height: 30px;
+    float: right;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-right: 40px;
+}
+
+.twitter{
+    float: right;
+    padding-left: 20px;
+    padding-bottom: 5px;;
+    padding-top: 10px;
+    padding-right: 40px;
+    height: 30px;
+}
+
+.facebook{
+    height: 30px;
+    float: right;
+    padding-left: 20px;
+    padding-top: 10px;;
+    padding-bottom: 5px;
+    padding-right: 40px;
+    height: 30px;
+}
+
+.linkediln{
+    height: 20px;
+    float: right;
+    padding-left: 20px;
+    padding-top: 10px;;
+    padding-bottom: 5px;
+    padding-right: 40px;
+    height: 30px;
+}
