@@ -50,7 +50,7 @@ body{
     background-color: #0E3152;
     margin: auto;
     color:aliceblue;
-    height: 80%;
+    height: 600px;
     border-radius: 20px;
     position: relative;
 
@@ -117,6 +117,7 @@ body{
 .content{
     width: 80%;
     position: absolute;
+    padding-bottom: 40px;
 }
 
 .content ul{

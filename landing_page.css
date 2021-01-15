@@ -43,7 +43,8 @@ body{
 .navbar li a:active{
     color: orange;
 } 
-   
+
+  
 .image_file{
     size: 40px;
     margin-left:40px;
