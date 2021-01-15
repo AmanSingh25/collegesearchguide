@@ -3,7 +3,7 @@ body{
     background-color: #26426b;
     background-position: center;
     background-size: cover;
-    overflow: hidden;
+    overflow: scroll;
 }
 
 
@@ -54,7 +54,7 @@ body{
     margin:auto;
     border-radius: 30px;
     height: 500px;
-    overflow: hidden;
+    margin-bottom: 40px;
 }
 
 .form h2{
