@@ -43,6 +43,7 @@ body{
     margin-left:40px;
     margin-top: 150px;
     position: absolute;
+    border-radius: 40%;
 }
 
 .container{
