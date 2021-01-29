@@ -72,16 +72,10 @@ body{
 
 .content ul li{
     padding-bottom: 10px;
+    font-size: larger;
 }
 
-marquee{
-    color: white;
-    background-color:#0E3152;
-    height: 40px;
-    font-size: 30px;
-    margin-bottom: 50px;
 
-}
 
 .footer{
     background-color: #0E3152;
