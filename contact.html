@@ -22,17 +22,18 @@
         <div class = "header">
         <h2>Contact Us</h2>
         </div>
-        <form>
+        <form action="https://formsubmit.co/aman.singh98162@email.com" method="POST"/>
+            <input type="hidden" name="_captcha" value="false"> 
             <div>
                 <label class = "label"><strong>First Name</strong></label><br>
                 <div class = "box">
-                <input type = "text" placeholder = "Enter your first name">
+                <input type = "text" name = "First Name" placeholder = "Enter your first name">
                 </div>  
             </div>
             <div>
                 <label class = "label"><strong>Last Name</strong></label><br>
                 <div class = "box">
-                <input type = "text" placeholder = "Enter your last name">  
+                <input type = "text" name = "Last Name" placeholder = "Enter your last name">  
                 </div>
             </div>
             <div>
@@ -54,19 +55,19 @@
             <div>
                 <label class = "label"><strong>Email</strong></label><br>
                 <div class = "box">
-                <input type = "email" placeholder = "for example: xyz@gmail.com">
+                <input type = "email" name = "email" placeholder = "for example: xyz@gmail.com">
                 </div>
             </div>
             <div>   
                 <label class = "label"><strong>Question</strong></label><br>
                 <div class = "box">
-                <textarea placeholder="if you have any queries, type here"></textarea>
+                <textarea placeholder="if you have any queries, type here" name = "Question"></textarea>
                 </div>
             </div>
             <div>   
                 <label class = "label"><strong>Suggestion</strong></label><br>
                 <div class = "box">
-                <textarea placeholder="if you have any suggestion, type here"></textarea>
+                <textarea placeholder="if you have any suggestion, type here" name = "suggestion"></textarea>
                 </div>
             </div>
             <div class = "submit">
@@ -82,7 +83,7 @@
         <a rel = "facebook" href = "https://www.facebook.com/CSG-106392484756850"><img class="facebook" src="images/facebook.jpg"></a>
         <a href = "#"><img class="twitter" src="images/twitter.jpg"></a>                        
     </footer>
-    
+
 </body>
 </head>
 </html>
